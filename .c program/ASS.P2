@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+char name;
+int dob,mn;
+clrscr();
+printf("name:vishal chavhan\n");
+printf("dob:march 09,2000\n");
+printf("mo.no:9325241346");
+getch();
+}
